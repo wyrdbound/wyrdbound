@@ -1,6 +1,6 @@
 # 👋 Welcome to Wyrdbound
 
-We're exploring new ways to experience tabletop RPGs — solo or cooperatively — with AI-assisted game mastering.
+We're exploring new ways to experience tabletop RPGs — solo or collaboratively — with AI-assisted game mastering.
 
 ## What is Wyrdbound?
 
